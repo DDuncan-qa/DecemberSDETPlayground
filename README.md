@@ -73,6 +73,7 @@ Would you like to play a game?
 - Firstname Lastname
 - Emmy Kidd
 - Jigsaw
+Sehun was here (finally) :)
 
 - MYNAME
 - Emmy Kidd
