@@ -10,6 +10,7 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - Arsalan Asad
 - completed
 - Nick Johnson
+<<<<<<< HEAD
 - Emmy Kidd
 - etc.
 - Cameron Guthrie
@@ -55,3 +56,7 @@ Would you like to play a game?
 - Jigsaw
 >>>>>>> upstream/main
 - MYNAME
+=======
+- Peter Vaughan-Williams
+>>>>>>> 567c3a36c5eef1b76ebefccbd22c1bf13fbefc11
+- H20
