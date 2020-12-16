@@ -1,4 +1,5 @@
 # DecemberSDETPlayground
+PEPRAH PEPRAH PEPRAH PEPRAH PEPRAH
 
 -Gie Fortuna
 Try to add your name here using your forked and cloned version of this repo (push directly onto `main`):
@@ -38,6 +39,17 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - Arsalan Asad
 - completed
 - Nick Johnson
+<<<<<<< HEAD
+HEAD
+- Cameron Guthrie
+>>>>>>> upstream/main
+
+
+
+
+
+Peprah Amoh-Donkor
+=======
 - Henry Oliver-Edwards
 - etc.
 Cameron Guthrie
@@ -67,4 +79,9 @@ Would you like to play a game?
 
 - MYNAME
 - Emmy Kidd
+<<<<<<< HEAD
+- H2O
+=======
 
+>>>>>>> d2a2bb9206ce0008d374dcf17521de0f9b100bc4
+>>>>>>> 7caabafd33d3cf9a41fe92dbdf1938ab3e4c56ec
